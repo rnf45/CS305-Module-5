@@ -44,12 +44,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get involve
 We use [SemVer](http://semver.org/) for versioning. 
 
 ## Authors
-* **Kane Davidson** - *Initial work* - [kcd1001](https://github.com/kcd1001)
-* **Nick Wiltshire** - *Initial work* - [nwwiltshire](https://github.com/nwwiltshire)
-* **Ian Tuohy** - *Initial work* - [ipt6](https://github.com/ipt6)
-* **Ethan Ikhifa** - *Initial work* - [eji24](https://github.com/eji24)
 * **Ryley Fernandez** - *Initial work* - [rnf45](https://github.com/rnf45)
-* **Brandon Udall** - *Initial work* - [bcu8](https://github.com/bcu8)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
