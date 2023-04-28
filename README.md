@@ -40,6 +40,10 @@ In this test case, the checkSingleLetterVariables function is called with a code
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get involved.
 
+## hypothetical module
+
+We are thinking about adding a hypothetical module to this 
+
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning. 
 
